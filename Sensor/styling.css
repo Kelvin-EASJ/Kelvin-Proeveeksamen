@@ -1,0 +1,30 @@
+  
+  table {
+    margin: .3em;
+    width: 290px;
+  }
+  
+  th {
+    padding: .2em;
+  }
+  
+  td {
+    background-color: #ffc;
+    border: 1px solid black;
+  }
+  
+  .centerCell {
+    text-align: center;
+  }
+
+  #C02 {
+      color: red;
+  }
+
+  #luftkvalitet {
+      color: orange;
+  }
+
+  #lydniveau {
+      color: red;
+  }
